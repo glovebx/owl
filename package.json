@@ -9,6 +9,9 @@
   "amd": "dist/owl.amd.js",
   "umd": "dist/owl.umd.js",
   "types": "dist/types/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "engines": {
     "node": ">=10.15.3"
   },
